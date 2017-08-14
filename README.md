@@ -1,2 +1,1 @@
-# opencv-ffmpeg
-OpenCV with FFMPEG
+# OpenCV with FFMPEG
